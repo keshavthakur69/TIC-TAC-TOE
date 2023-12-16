@@ -1,0 +1,73 @@
+*{
+  padding: 0px;
+  margin: 0px;
+
+}
+
+.main{
+  height: 900px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  text-align: center;
+}
+.massage-container{
+  /* height: 200px; */
+}
+.new-game-btn{
+  height: 100px;
+  width: 200px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-top: 20px;
+  font-size: 30px;
+  color: #ffffc7;
+  background-color: blue;
+}
+.game{
+
+}
+.nine-boxs{
+  margin-top: 40px;
+
+  /* background-color: red; */
+}
+.rows{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.boxs{
+  width: 160px;
+  height: 160px;
+  background-color: rgb(255, 255, 255);
+  border: 5px solid rgb(13, 13, 13);
+  /* border-radius: 10px; */
+  
+
+}
+
+
+.btns{
+  width: 160px;
+  height: 160px;
+  border: none;
+  font-size: 130px;
+  color: red;
+  background-color: #ffffc7;
+
+}
+/* .reset-btn{
+  height: 100px;
+  width: 200px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-top: 20px;
+  font-size: 30px;
+  background-color: green;
+  color: white;
+} */
+
+.hide{
+  /* display: none; */
+}
